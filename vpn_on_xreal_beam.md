@@ -13,6 +13,7 @@ Make sure you have adb installed on your pc.
 Now open vpn app and try to start the vpn, now plug in xreal beam to pc, and when the dialog to turn on vpn shows up run these commands in terminal
 
 'adb shell uiautomator dump /sdcard/Download/view.xml'
+
 'adb pull /sdcard/Download/view.xml'
 
 this will generate an xml file of the ui, and save it to your pc, from that open the xml file and search for 'OK', then check for the bounds tag
