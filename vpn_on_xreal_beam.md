@@ -1,6 +1,6 @@
 # Install VPN on Xreal Beam
 
-When you install vpn apps and try to enable them it would allow you to click ok, this guide is a workaround using adb to click it for you.
+When you install vpn apps and try to enable them it doesnt allow you to click ok, this guide is a workaround using adb to click it for you.
 
 ###XREAL BEAM update 1.4.1 
 
