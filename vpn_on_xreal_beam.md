@@ -7,7 +7,7 @@ When you install vpn apps and try to enable them it doesnt allow you to click ok
 
 With the new update on xreal beam you can install third party apps
 
-First install quickshortcutmaker(https://www.xda-developers.com/quickshortcutmaker/), and navigate to the settings apps, open settings and enable adb.
+First install quickshortcutmaker(https://www.xda-developers.com/quickshortcutmaker/) or the one by rushikesh on playstore, and navigate to the settings apps, open settings and enable adb.
 
 Make sure you have adb installed on your pc.
 Now open vpn app and try to start the vpn, now plug in xreal beam to pc, and when the dialog to turn on vpn shows up run these commands in terminal
